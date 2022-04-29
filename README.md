@@ -58,10 +58,11 @@ Design Proposal:
 | :---: | :---: | :---: | :---: | :---: |
 
 ## 📷 Imagens
-![image](https://user-images.githubusercontent.com/50851374/163732280-dddeaa54-2773-477b-87e2-7807dd84d382.png)
-![image](https://user-images.githubusercontent.com/50851374/163658518-28d9ce08-1cc3-436a-b838-cebdca0f01f4.png)
-![image](https://user-images.githubusercontent.com/50851374/163658496-5b4dd4ae-342c-4495-b5e1-6380e9db8b23.png)
-![image](https://user-images.githubusercontent.com/50851374/163732509-e07b4deb-7001-4f10-9d69-add85c6f4ddc.png)
+![image](https://user-images.githubusercontent.com/99160023/165873604-a38a0884-cb35-4168-8970-dce06ce39e89.png)
+![image](https://user-images.githubusercontent.com/99160023/165873623-bfc391cb-1359-40d4-94e1-1e131862dfb0.png)
+![image](https://user-images.githubusercontent.com/99160023/165873630-92655c3b-efb7-4cb3-9de6-7ff005499843.png)
+![image](https://user-images.githubusercontent.com/99160023/165873648-53e4da91-d543-4728-9b49-95cb44d727e2.png)
+
 
 
 
